@@ -1,0 +1,46 @@
+.heading1 {
+    background-color: yellow;
+     display: flex;
+     justify-content: center;
+     padding: 5px;
+    
+    
+}
+.heading2 {
+  
+     display: flex;
+     gap: 10px;
+  justify-content: center;
+  border: 1px solid black;
+    
+    
+}
+.img{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+.kpn-style{
+    margin-left: 20px;
+}
+.heading-card{
+     display: flex;
+    gap: 20px;
+    justify-content: center;
+    list-style-position: none;
+
+}
+
+.heading-offers {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+   list-style-type: none;
+
+}
+.kpn-logo{
+    display: flex;
+}
+.kpn-heading{
+    font-size: 30px;
+}
