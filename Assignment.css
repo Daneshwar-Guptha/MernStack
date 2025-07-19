@@ -44,3 +44,8 @@
 .kpn-heading{
     font-size: 30px;
 }
+.footer-image {
+    background-image: url('https://www.kpnfresh.com/_next/static/media/downloadBanner.a60d7a9c.png');
+    background-size: cover;
+   
+}
