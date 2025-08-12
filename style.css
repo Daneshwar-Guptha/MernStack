@@ -1,0 +1,53 @@
+.profile-photo {
+    height: 250px;
+    width: 250px;
+    border-top-right-radius: 35%;
+    border-bottom-left-radius: 35%;
+    border-top-left-radius: 35%;
+    border-bottom-right-radius: 35%;
+
+}
+
+.button {
+  padding: 10px 20px;
+  background-color: #007bff; 
+  color: white;
+  border: none;
+  border-radius: 5px;
+  text-decoration: none; 
+  display: inline-block;
+  cursor: pointer;
+}
+
+.button1 {
+    background-color: skyblue;
+}
+
+
+
+.button2 {
+    background-color: transparent;
+    border: 2px solid skyblue;
+    color: skyblue;
+}
+
+.card-Style {
+    background-color: #111827;
+    border-radius: 20px;
+    gap: 20px;
+    padding: 20px;
+    margin: 20px;
+    margin-right: 20px;
+    
+}
+.about_para{
+    font-size: 1.125rem;
+}
+.card1{
+    background-color: #111827;
+}
+.card2{
+    background-color:#111827;
+    
+    border-radius: 20px;
+}
